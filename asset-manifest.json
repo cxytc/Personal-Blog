@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Personal-Blog/static/js/main.6f63f560.js",
+    "static/media/web.jpg": "/Personal-Blog/static/media/web.8a2c241a2f3757272e78.jpg",
+    "static/media/tclog.jpg": "/Personal-Blog/static/media/tclog.1edb8c2c4a9b26db87ad.jpg",
+    "static/media/lifecycle.png": "/Personal-Blog/static/media/lifecycle.4a919f7471e246973e73.png",
+    "static/media/reactlifecycle.png": "/Personal-Blog/static/media/reactlifecycle.d60080b6df3c5e6c50ce.png",
+    "static/media/bgc.png": "/Personal-Blog/static/media/bgc.f09a6287d3eef150a011.png",
+    "static/media/app.jpg": "/Personal-Blog/static/media/app.5ef127ea52833479ec31.jpg",
+    "index.html": "/Personal-Blog/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.6f63f560.js"
+  ]
+}
